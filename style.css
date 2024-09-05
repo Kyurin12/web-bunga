@@ -135,7 +135,7 @@ header .icons div:hover{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(../images/background.jpg);
+    background: url(images/background.jpg);
     background-size: cover;
     background-position: center;
 
@@ -238,7 +238,7 @@ section{
     left: 0;
     right: 0;
     bottom: 0;
-    background: url(../images/background.jpg);
+    background: url(images/background.jpg);
     background-size: cover;
     background-position: center;
     transform: scaleY(-1); /* Membalik gambar secara horizontal */
@@ -367,7 +367,7 @@ section{
 }
 .blogs{
     min-height: 100vh;
-    background: url(../images/background.jpg);
+    background: url(images/background.jpg);
     background-size: cover;
     background-position: center;
 
